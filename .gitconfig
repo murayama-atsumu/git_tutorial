@@ -1,0 +1,7 @@
+[user]
+	name = murayama-atsumu
+	email = murayama-a@arrows-systems.co.jp
+[core]
+	editor = code --wait
+
+	<h1>gitチュートリアル</h1>
